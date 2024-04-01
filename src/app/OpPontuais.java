@@ -384,7 +384,7 @@ public class OpPontuais {
                 float Q = (float) (0.212 * red - 0.528 * green + 0.311 * blue);
 
                 //fazer negativo na banda Y
-                Y -= 255;
+                Y = 255 - Y;
 
                 //converter para RGB
                 red = limitCor((int) (Y + 0.956 * I + 0.621 * Q));
