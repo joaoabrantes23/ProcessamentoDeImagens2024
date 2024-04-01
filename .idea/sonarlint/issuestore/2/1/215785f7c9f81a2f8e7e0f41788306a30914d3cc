@@ -1,0 +1,12 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(—œœüÿÿÿÿ8£Ì³¿ç1J$ced05210-f284-40da-80f7-7a1e866f5c9a
+z
+java:S1854X"8Remove this useless assignment to local variable "blue".(º‚Ù*8¾½²¿ç1J$8f4f57f0-8acb-4774-8462-01ae1c4054bc
+
+java:S1854W"9Remove this useless assignment to local variable "green".(®ª±øıÿÿÿÿ8¿½²¿ç1J$bf12d37a-62f2-45f3-9eb3-aa2b7fdfc741
+r
+java:S1481W"*Remove this unused "green" local variable.(®ª±øıÿÿÿÿ8À½²¿ç1J$b3a95ee2-ef92-4a1e-bf65-1d522bc08136
+k
+java:S1481X")Remove this unused "blue" local variable.(º‚Ù*8Á½²¿ç1J$03104b9d-c7a5-42e8-85d9-362cd3d2f2c5
+n	java:S106Ø"+Replace this use of System.out by a logger.(È†û’8Ê½²¿ç1J$beec4314-16d8-4c09-bc5b-f12727f519c2
